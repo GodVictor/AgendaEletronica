@@ -1,5 +1,5 @@
 # AgendaEletronica
-É uma protótipo de uma agenda eletrônica que Adiciona, busca, lista, remove e edita os contatos. Ao Adicionar os contatos a agenda já ordena e salva em um arquivo .txt
+É uma protótipo de uma agenda eletrônica que Adiciona, busca, lista, remove e edita os contatos. Ao Adicionar os contatos a agenda já ordena automaticamento e salva em um arquivo .txt
 
 <img style="-webkit-user-select: none;margin: auto;" src="https://www.plantuml.com/plantuml/img/SoWkIImgAStDuGejBaqioinNqDMrKz1mJCbCpipFIopIH1LFAYrEJaGJ2qhDpIzBHHFCoGGQZ2QMcf9P0ZBH8JKl1MGZ0000">
 
@@ -11,4 +11,12 @@ A agenda existe varias opções que é selecionado por numero.
 1-Adicionar Contatos
 Voce pode adicionar Nome e numero 
 2-Buscar 
-voce pode buscar o numero por nome, e tambem da para busca por partes do nome EX:
+voce pode buscar o numero por nome, e tambem da para busca por partes do nome EX:Victor buscar por ic ou vi
+3-Listar Contatos
+Lista os contatos que esta no arquivo
+4-Remover Contato
+Remove Contato e caso exista mais de 1 contato com mesmo nome aparece uma pergunta qual quer remover e sempre com confirmação 
+5-Editar Contato 
+Edita o Contato e caso exista mais de 1 contato com o mesmo nome aparece uma pergunta qual contato deseja editar.
+9-encerrar
+finaliza o programa
