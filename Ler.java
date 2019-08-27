@@ -20,7 +20,7 @@ public class Ler {
             }
 
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("nao ha o arquivo contatos.txt, criando um novo contato");
         }
 
     }
