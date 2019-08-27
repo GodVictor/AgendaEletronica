@@ -6,7 +6,7 @@ abrir o terminal no local do arquivo e escrever o seguinte comando
 javac .\Main.java
 java Main
 
-# Recomendo instalar o OpenJKD 
+# Recomendo instalar o OpenJDK
 
 <img style="-webkit-user-select: none;margin: auto;" src="https://www.plantuml.com/plantuml/img/SoWkIImgAStDuGejBaqioinNqDMrKz1mJCbCpipFIopIH1LFAYrEJaGJ2qhDpIzBHHFCoGGQZ2QMcf9P0ZBH8JKl1MGZ0000">
 
