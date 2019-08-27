@@ -1,6 +1,13 @@
 # AgendaEletronica
 É uma protótipo de uma agenda eletrônica que Adiciona, busca, lista, remove e edita os contatos. Ao Adicionar os contatos a agenda já ordena automaticamento e salva em um arquivo .txt
 
+Para executar o programa devera rodar o main.java seguindo as instruçoes abaixo
+abrir o terminal no local do arquivo e escrever o seguinte comando 
+javac .\Main.java
+java Main
+
+# Recomendo instalar o OpenJKD 
+
 <img style="-webkit-user-select: none;margin: auto;" src="https://www.plantuml.com/plantuml/img/SoWkIImgAStDuGejBaqioinNqDMrKz1mJCbCpipFIopIH1LFAYrEJaGJ2qhDpIzBHHFCoGGQZ2QMcf9P0ZBH8JKl1MGZ0000">
 
 <img style="-webkit-user-select: none;margin: auto;" src="https://www.plantuml.com/plantuml/img/RKzB2i8m4DtFAOQk5AdW3IfrgMvwWi4EOI0VcAJTIEzkOh8GwUvzcFVU336HfiLPW2J9CewMOkI8VKLu4p9A3W1UNpwga5uD-vdm3OYdAQbuWuRJCpW-7F-qnR66h6u03nBVNSw-mxx72kwiE_94TgKzuwUypSa1PKNkN8FCs2PipMr1bPGuW24VbtS_">
