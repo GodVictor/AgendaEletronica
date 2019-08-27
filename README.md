@@ -1,8 +1,8 @@
 # AgendaEletronica
 É uma protótipo de uma agenda eletrônica que Adiciona, busca, lista, remove e edita os contatos. Ao Adicionar os contatos a agenda já ordena automaticamento e salva em um arquivo .txt
 
-Para executar o programa devera rodar o main.java seguindo as instruçoes abaixo
-abrir o terminal no local do arquivo e escrever o seguinte comando 
+<p>Para executar o programa devera rodar o main.java seguindo as instruçoes abaixo</p>
+<p>abrir o terminal no local do arquivo e escrever o seguinte comando </p>
 <p>javac .\Main.java</p>
 <p>java Main</p>
 
