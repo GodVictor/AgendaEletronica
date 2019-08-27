@@ -3,8 +3,8 @@
 
 Para executar o programa devera rodar o main.java seguindo as instruçoes abaixo
 abrir o terminal no local do arquivo e escrever o seguinte comando 
-javac .\Main.java
-java Main
+<p>javac .\Main.java</p>
+<p>java Main</p>
 
 # Recomendo instalar o OpenJDK
 
@@ -17,19 +17,19 @@ java Main
 A agenda existe varias opções que é selecionado por numero.
 
 1-Adicionar Contatos
-Voce pode adicionar Nome e numero 
+<p>Voce pode adicionar Nome e numero </p>
 
 2-Buscar 
-voce pode buscar o numero por nome, e tambem da para busca por partes do nome EX:Victor buscar por ic ou vi
+<p>voce pode buscar o numero por nome, e tambem da para busca por partes do nome EX:Victor buscar por ic ou vi </p>
 
 3-Listar Contatos
-Lista os contatos que esta no arquivo
+<p>Lista os contatos que esta no arquivo</p>
 
 4-Remover Contato
-Remove Contato e caso exista mais de 1 contato com mesmo nome aparece uma pergunta qual quer remover e sempre com confirmação 
+<p>Remove Contato e caso exista mais de 1 contato com mesmo nome aparece uma pergunta qual quer remover e sempre com confirmação </p>
 
 5-Editar Contato 
-Edita o Contato e caso exista mais de 1 contato com o mesmo nome aparece uma pergunta qual contato deseja editar.
+<p>Edita o Contato e caso exista mais de 1 contato com o mesmo nome aparece uma pergunta qual contato deseja editar.</p>
 
 9-encerrar
-finaliza o programa
+<p>finaliza o programa</p>
